@@ -28,6 +28,6 @@
 * We are using cache in Entity Name.
 
 ### Video with swagger demonstration:
-* [![screen-swagger.mp4](screen-swagger.mp4)](screen-swagger.mp4)
+* [![screen-swagger.git](screen-swagger.gif)](screen-swagger.gif)
 
 
