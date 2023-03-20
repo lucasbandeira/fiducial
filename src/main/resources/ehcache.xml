@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config
+        xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+        xmlns='http://www.ehcache.org/v3'
+        xsi:schemaLocation="
+        https://www.ehcache.org/v3/ https://www.ehcache.org/schema/ehcache-core-3.0.xsd">
+    <cache  alias="name">
+        <key-type>java.lang.Long</key-type>
+        <value-type>com.names.fiducial.name.Name</value-type>
+        <heap unit="entries">100000</heap>
+    </cache>
+</config>
