@@ -14,7 +14,6 @@ We want you to build a rest endpoint that will
 3. Search for a name and returns true or false if exists or not
 4. Don’t allow duplicated names
 5. Create the required unit tests
-6. Necessary JavaDoc
 
 ### Names API | Endpoints:
 
